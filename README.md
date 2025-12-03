@@ -1,5 +1,6 @@
 # TBank Travel EDA
 Разведочный анализ данных по заказам отелей и авиабилетов в сервисе «Путешествия» Т-Банка — [T_Bank_hotels_and_flights_V009.ipynb](T_Bank_hotels_and_flights_V009.ipynb)
+Краткая презентация: [T_Bank_hotels_and_flights_V009.ipynb](T_Bank_hotels_and_flights_V009.ipynb)
 
 
 ## Описание
@@ -107,5 +108,7 @@
 | [ТБ-Отели_и_авиабилеты.pdf](./ТБ-Отели%20и%20а_б.pdf) | Подробное описание датасета и его признаков |
 | [Описание столбцов](./columns_description.md) | Разделение признаков по категориям |
 | [Tinkoff Travel Dataset](https://drive.google.com/file/d/1HWaRedvkbQalo8pPOMsPjrVjneKKw1gQ/view?usp=sharing) | Исходный датасет для анализа |
+| [Tinkoff Travel Dataset](https://drive.google.com/file/d/1HWaRedvkbQalo8pPOMsPjrVjneKKw1gQ/view?usp=sharing) | Презентация pdf |
+| [Tinkoff Travel Dataset](https://drive.google.com/file/d/1HWaRedvkbQalo8pPOMsPjrVjneKKw1gQ/view?usp=sharing) | Презентация pptx |
 
 > Примечание: выводы основаны на текущей версии ноутбука и могут уточняться по мере доработки EDA.
