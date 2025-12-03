@@ -1,6 +1,6 @@
 # TBank Travel EDA
-Разведочный анализ данных по заказам отелей и авиабилетов в сервисе «Путешествия» Т-Банка — [T_Bank_hotels_and_flights_V009.ipynb](T_Bank_hotels_and_flights_V009.ipynb)
-Краткая презентация: [T_Bank_hotels_and_flights_V009.ipynb](T_Bank_hotels_and_flights_V009.ipynb)
+Разведочный анализ данных по заказам отелей и авиабилетов в сервисе «Путешествия» Т-Банка — [T_Bank_hotels_and_flights_V009.ipynb](T_Bank_hotels_and_flights_V009.ipynb)  
+Краткая презентация: [Аналитическая_записка._Т-Банк_отели_и_авиабилеты._Хатуль_Пётр_V003.pdf](Аналитическая_записка._Т-Банк_отели_и_авиабилеты._Хатуль_Пётр_V003.pdf)
 
 
 ## Описание
